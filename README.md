@@ -72,10 +72,10 @@ ASHA Digital Diary provides:
 ![Dashboard](screenshots/dashboard.png)
 
 ### 🔴 Active Visit with Live Timer
-![Active Visit](timer.png)
+![Active Visit](screenshots/timer.png)
 
 ### 📊 Code
-![Report](Code1.png)
+![Report](screenshots/Code1.png)
 
 ## 🏗 System Architecture
 
