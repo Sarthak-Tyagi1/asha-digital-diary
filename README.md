@@ -63,6 +63,20 @@ ASHA Digital Diary provides:
 
 ---
 
+## 📸 Application Screenshots
+
+### 🔐 Login Page
+![Login Page](screenshots/login page.png)
+
+### 🏠 Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### 🔴 Active Visit with Live Timer
+![Active Visit](timer.png)
+
+### 📊 Code
+![Report](code1.png)
+
 ## 🏗 System Architecture
 
 (User Interface) → React Frontend  
