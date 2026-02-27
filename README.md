@@ -66,7 +66,7 @@ ASHA Digital Diary provides:
 ## 📸 Application Screenshots
 
 ### 🔐 Login Page
-![Login Page](screenshots/login page.png)
+![Login Page](screenshots/login.png)
 
 ### 🏠 Dashboard
 ![Dashboard](screenshots/dashboard.png)
@@ -75,7 +75,7 @@ ASHA Digital Diary provides:
 ![Active Visit](timer.png)
 
 ### 📊 Code
-![Report](code1.png)
+![Report](Code1.png)
 
 ## 🏗 System Architecture
 
